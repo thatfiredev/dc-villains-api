@@ -11,7 +11,8 @@ Data scrapped from [akabab/superhero-api](https://github.com/akabab/superhero-ap
 https://rosariopfernandes.github.io/dc-villains-api/all/
 
 # Get character by id
-https://rosariopfernandes.github.io/dc-villains-api/{id}/
+https://rosariopfernandes.github.io/dc-villains-api/id/{id}/
+# eg. https://rosariopfernandes.github.io/dc-villains-api/id/20/
 ```
 
 ## License

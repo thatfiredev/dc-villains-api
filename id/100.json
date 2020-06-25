@@ -1,0 +1,57 @@
+{
+  "id": 100,
+  "name": "Black Flash",
+  "slug": "100-black-flash",
+  "powerstats": {
+    "intelligence": 44,
+    "strength": 10,
+    "speed": 100,
+    "durability": 80,
+    "power": 100,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barry Allen",
+      "Flashback",
+      "Slow Lightning",
+      "Black Racer",
+      "Death Flash",
+      "God of Death"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash Vol 2 #138",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "images": {
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/100-black-flash.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/100-black-flash.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/100-black-flash.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/100-black-flash.jpg"
+  }
+}

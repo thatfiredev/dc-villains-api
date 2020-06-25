@@ -1,0 +1,52 @@
+{
+  "id": 509,
+  "name": "Parademon",
+  "slug": "509-parademon",
+  "powerstats": {
+    "intelligence": 9,
+    "strength": 28,
+    "speed": 17,
+    "durability": 50,
+    "power": 53,
+    "combat": 25
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "Parademon",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Apokalips",
+    "firstAppearance": "New Gods #1",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Darkseid",
+    "relatives": "-"
+  },
+  "images": {
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/509-parademon.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/509-parademon.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/509-parademon.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/509-parademon.jpg"
+  }
+}

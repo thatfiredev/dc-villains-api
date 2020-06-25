@@ -8,10 +8,10 @@ Data scrapped from [akabab/superhero-api](https://github.com/akabab/superhero-ap
 
 ```bash
 # Get all characters
-https://rosariopfernandes.github.io/dc-villains-api/all.json
+https://rosariopfernandes.github.io/dc-villains-api/all/
 
 # Get character by id
-https://rosariopfernandes.github.io/dc-villains-api/id/{character_id}.json
+https://rosariopfernandes.github.io/dc-villains-api/{id}/
 ```
 
 ## License

@@ -1,0 +1,15 @@
+{
+  "name": "dc-villains-api-generator",
+  "version": "1.0.0",
+  "description": "Node 10 script to generate the API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rosariofernandes51@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

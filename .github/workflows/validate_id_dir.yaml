@@ -1,0 +1,16 @@
+name: Validate /id directory
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '10'
+      - name: run validation script
+        run: node scripts/validate_id_dir.js

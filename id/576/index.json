@@ -44,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/576-scarecrow.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/576-scarecrow.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/576-scarecrow.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/576-scarecrow.jpg"
+    "xs": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg",
+    "sm": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg",
+    "md": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg",
+    "lg": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg"
   }
 }

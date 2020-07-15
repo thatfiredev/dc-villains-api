@@ -1,0 +1,56 @@
+{
+  "id": 546,
+  "name": "Red Hood",
+  "slug": "546-red-hood",
+  "powerstats": {
+    "intelligence": 85,
+    "strength": 15,
+    "speed": 25,
+    "durability": 30,
+    "power": 40,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Jason Todd",
+    "alterEgos": "Robin II, Joker",
+    "aliases": [
+      "Robin",
+      "Red Robin",
+      "Batman",
+      "Nightwing",
+      "Arkham Knight"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #635",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Mercenary, Vigilante",
+    "base": "Batcave, Brainzarro's Ship"
+  },
+  "connections": {
+    "groupAffiliation": "formerly Batman Family, Teen Titans",
+    "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
+  },
+  "images": {
+    "xs": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+    "sm": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+    "md": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+    "lg": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
+  }
+}

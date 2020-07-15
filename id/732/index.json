@@ -1,0 +1,50 @@
+{
+  "id": 732,
+  "name": "Calendar Man",
+  "slug": "732-calendar-man",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 20,
+    "speed": 25,
+    "durability": 85,
+    "power": 80,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "193 lb",
+      "87 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Julian Gregory Day",
+    "alterEgos": "No alter egos found.",
+    "aliases": [ "The Calendar Killer" ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "Detective Comics #259 (September, 1958)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Criminal Mastermind, Super-villain, Magician, Former Journalist",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "images": {
+    "xs": "https://www.superherodb.com/gallery2/075/25/2501.jpg",
+    "sm": "https://www.superherodb.com/gallery2/075/25/2501.jpg",
+    "md": "https://www.superherodb.com/gallery2/075/25/2501.jpg",
+    "lg": "https://www.superherodb.com/gallery2/075/25/2501.jpg"
+  }
+}

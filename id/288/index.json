@@ -12,7 +12,7 @@
   },
   "appearance": {
     "gender": "Male",
-    "race": null,
+    "race": "Old God",
     "height": [
       "-",
       "0 cm"
@@ -25,14 +25,14 @@
     "hairColor": "-"
   },
   "biography": {
-    "fullName": "",
+    "fullName": "William Matthews",
     "alterEgos": "No alter egos found.",
     "aliases": [
       "Nephut-Sha",
       "Hassan Kareem"
     ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Incredible Hulk #257 (1981)",
+    "placeOfBirth": "Urgrund",
+    "firstAppearance": "New Year's Evil: Gog #1 (February, 1998)",
     "publisher": "DC Comics",
     "alignment": "bad"
   },
@@ -41,13 +41,13 @@
     "base": "-"
   },
   "connections": {
-    "groupAffiliation": "Sinister Six",
+    "groupAffiliation": "Sinister Six, Church of Superman",
     "relatives": "Seth (creator), Magog (\"brother\")"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/no-portrait.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/no-portrait.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/no-portrait.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/no-portrait.jpg"
+    "xs": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+    "md": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+    "lg": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg"
   }
 }

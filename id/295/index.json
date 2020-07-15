@@ -1,0 +1,44 @@
+{
+  "id": 295,
+  "name":"Granny Goodness",
+  "slug": "295-granny-goodness",
+  "powerstats": {
+    "intelligence": 100,
+    "strength":80,
+    "speed": 80,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName":"",
+    "alterEgos":"Goodness",
+    "aliases":["Athena"],
+    "placeOfBirth":"Apokolips",
+    "firstAppearance":"Mister Miracle vol. 1 #2 (May, 1971)",
+    "publisher":"DC Comics",
+    "alignment":"bad"
+  },
+  "appearance": {
+    "gender":"Female",
+    "race":"New God",
+    "height":["5'10","178 cm"],
+    "weight":["256 lb","115 kg"],
+    "eyeColor":"Blue",
+    "hairColor":"White"
+  },
+  "work": {
+    "occupation":"-",
+    "base":"-"
+  },
+  "connections": {
+    "groupAffiliation":"Female Furies, Darkseid's Elite",
+    "relatives":"-"
+  },
+  "images": {
+    "xs":"https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+    "sm":"https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+    "md":"https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+    "lg":"https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
+  }
+}

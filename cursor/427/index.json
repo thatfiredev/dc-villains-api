@@ -1,0 +1,530 @@
+{
+  "characters": [
+    {
+      "id": 427,
+      "name": "Man-Bat",
+      "slug": "427-man-bat",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 18,
+        "speed": 50,
+        "durability": 70,
+        "power": 33,
+        "combat": 30
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Robert Kirkland Langstrom",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Kirk Langstrom"
+        ],
+        "placeOfBirth": "Chicago, Illinois",
+        "firstAppearance": "Detective Comics #400 (June, 1970)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Zoologist",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Spirit Squad, The Network",
+        "relatives": "Francine Langstrom (wife), Rebecca Elizabeth Langtrom (daughter); Aaron Langstrom (son); Britt Langstrom (sister); Ted Friedel (brother-in-law)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/427-man-bat.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/427-man-bat.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/427-man-bat.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/427-man-bat.jpg"
+      }
+    },
+    {
+      "id": 436,
+      "name": "Match",
+      "slug": "436-match",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 95,
+        "speed": 83,
+        "durability": 85,
+        "power": 100,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Kent Connor",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Superboy",
+          "Superman"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
+        "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/436-match.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/436-match.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/436-match.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/436-match.jpg"
+      }
+    },
+    {
+      "id": 439,
+      "name": "Maxima",
+      "slug": "439-maxima",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 90,
+        "speed": 35,
+        "durability": 56,
+        "power": 81,
+        "combat": 75
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": null,
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "160 lb",
+          "72 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Queen Maxima",
+          "Empress of the Almeracian Empire"
+        ],
+        "placeOfBirth": "Almerac",
+        "firstAppearance": "-",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Adventurer, Queen of the Almerac Empire",
+        "base": "Imperial Royal Palace"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League Task Force, Extreme Justice",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/439-maxima.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/439-maxima.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/439-maxima.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/439-maxima.jpg"
+      }
+    },
+    {
+      "id": 445,
+      "name": "Metallo",
+      "slug": "445-metallo",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 53,
+        "speed": 23,
+        "durability": 95,
+        "power": 86,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Android",
+        "height": [
+          "6'5",
+          "196 cm"
+        ],
+        "weight": [
+          "200 lb",
+          "90 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "John Corben",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Professional criminal",
+        "base": "Mobile, though he generally operates out of Metropolis"
+      },
+      "connections": {
+        "groupAffiliation": "Superman Revenge Squad",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/445-metallo.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/445-metallo.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/445-metallo.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/445-metallo.jpg"
+      }
+    },
+    {
+      "id": 457,
+      "name": "Mister Freeze",
+      "slug": "457-mister-freeze",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 32,
+        "speed": 12,
+        "durability": 70,
+        "power": 37,
+        "combat": 28
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "190 lb",
+          "86 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Victor Fries",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Mister Zero",
+          "Doctor Zero",
+          "Doctor Schimmell"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman #121 (Feb. 1959)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Assorted Batman rogues, The Society",
+        "relatives": "Nora Fries (wife, deceased, then resurrected as Lazara), Charles (Father) and Lorraine Fries (Mother)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/457-mister-freeze.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/457-mister-freeze.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/457-mister-freeze.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/457-mister-freeze.jpg"
+      }
+    },
+    {
+      "id": 459,
+      "name": "Mister Mxyzptlk",
+      "slug": "459-mister-mxyzptlk",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 85,
+        "speed": 100,
+        "durability": 100,
+        "power": 100,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Mr. Mxyzptlk",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superman #30",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/459-mister-mxyzptlk.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/459-mister-mxyzptlk.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/459-mister-mxyzptlk.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/459-mister-mxyzptlk.jpg"
+      }
+    },
+    {
+      "id": 461,
+      "name": "Mister Zsasz",
+      "slug": "461-mister-zsasz",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 22,
+        "speed": 33,
+        "durability": 28,
+        "power": 18,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Victor Zsasz",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Mr Zsasz"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "-",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Serial Killer",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg"
+      }
+    },
+    {
+      "id": 508,
+      "name": "Ozymandias",
+      "slug": "508-ozymandias",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 18,
+        "speed": 33,
+        "durability": 20,
+        "power": 49,
+        "combat": 95
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Adrian Veidt",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The World's Smartest Man"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Watchmen #1",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly The Crimebusters",
+        "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/508-ozymandias.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/508-ozymandias.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/508-ozymandias.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/508-ozymandias.jpg"
+      }
+    },
+    {
+      "id": 509,
+      "name": "Parademon",
+      "slug": "509-parademon",
+      "powerstats": {
+        "intelligence": 9,
+        "strength": 28,
+        "speed": 17,
+        "durability": 50,
+        "power": 53,
+        "combat": 25
+      },
+      "appearance": {
+        "gender": "-",
+        "race": "Parademon",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "Apokalips",
+        "firstAppearance": "New Gods #1",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Darkseid",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/509-parademon.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/509-parademon.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/509-parademon.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/509-parademon.jpg"
+      }
+    },
+    {
+      "id": 514,
+      "name": "Penguin",
+      "slug": "514-penguin",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 10,
+        "speed": 12,
+        "durability": 28,
+        "power": 30,
+        "combat": 45
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'2",
+          "157 cm"
+        ],
+        "weight": [
+          "175 lb",
+          "79 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Oswald Chesterfield Cobblepot",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "DETECTIVE COMICS #58 (December, 1941)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Trader",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/514-penguin.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/514-penguin.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/514-penguin.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/514-penguin.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 309,
+  "next_cursor": 521
+}

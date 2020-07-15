@@ -1,0 +1,535 @@
+{
+  "characters": [
+    {
+      "id": 521,
+      "name": "Plastique",
+      "slug": "521-plastique",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 10,
+        "speed": 23,
+        "durability": 28,
+        "power": 60,
+        "combat": 42
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": null,
+        "height": [
+          "5'6",
+          "168 cm"
+        ],
+        "weight": [
+          "123 lb",
+          "55 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Bette Sans Souci",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Fury of Firestorm #7",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Government Agent, former Terrorist, Mercenary",
+        "base": "Mobile; formerly Quebec, Canada"
+      },
+      "connections": {
+        "groupAffiliation": "Suicide Squad, formerly Bomb Squad, Extreme Justice",
+        "relatives": "Nathaniel Adam (Captain Atom,husband), Margaret Eiling (step-daughter), Randall Eiling (step-son)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/521-plastique.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/521-plastique.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/521-plastique.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/521-plastique.jpg"
+      }
+    },
+    {
+      "id": 522,
+      "name": "Poison Ivy",
+      "slug": "522-poison-ivy",
+      "powerstats": {
+        "intelligence": 81,
+        "strength": 14,
+        "speed": 21,
+        "durability": 40,
+        "power": 100,
+        "combat": 40
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'6",
+          "168 cm"
+        ],
+        "weight": [
+          "110 lb",
+          "50 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Pamela Isley",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "Seattle, Washington",
+        "firstAppearance": "Batman #181 (June 1966)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Criminal, Botanist",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Injustice Gang, Suicide Squad, Harley Quinn, Secret Society of Super Villains, Joker League of Anarchy",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/522-poison-ivy.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/522-poison-ivy.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/522-poison-ivy.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/522-poison-ivy.jpg"
+      }
+    },
+    {
+      "id": 528,
+      "name": "Professor Zoom",
+      "slug": "528-professor-zoom",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 10,
+        "speed": 100,
+        "durability": 20,
+        "power": 83,
+        "combat": 20
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "179 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Strawberry Blond"
+      },
+      "biography": {
+        "fullName": "Eobard Thawne",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Reverse Flash",
+          "Black Flash",
+          "Adrian Zoom",
+          "Mister Zyx"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Flash #139 (September, 1963)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Central Cityplex, 25th Century"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Secret Society of Super-Villains, Black Lantern Corps, White Lantern Corps",
+        "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/528-professor-zoom.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/528-professor-zoom.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/528-professor-zoom.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/528-professor-zoom.jpg"
+      }
+    },
+    {
+      "id": 538,
+      "name": "Ra's Al Ghul",
+      "slug": "538-ras-al-ghul",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 28,
+        "speed": 32,
+        "durability": 42,
+        "power": 27,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'4",
+          "193 cm"
+        ],
+        "weight": [
+          "215 lb",
+          "97 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Grey"
+      },
+      "biography": {
+        "fullName": "Ra's Al Ghul",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Demon's Head"
+        ],
+        "placeOfBirth": "Egypt",
+        "firstAppearance": "Batman #232 (June, 1971)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Eco Terrorist, Businessman, Cult Leader",
+        "base": "mobile"
+      },
+      "connections": {
+        "groupAffiliation": "League of Assassins",
+        "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg"
+      }
+    },
+    {
+      "id": 542,
+      "name": "Raven",
+      "slug": "542-raven",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 10,
+        "speed": 29,
+        "durability": 70,
+        "power": 84,
+        "combat": 40
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'5",
+          "165 cm"
+        ],
+        "weight": [
+          "110 lb",
+          "50 kg"
+        ],
+        "eyeColor": "Indigo",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Rachel Roth",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Pride",
+          "Dark Raven"
+        ],
+        "placeOfBirth": "Azarath",
+        "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Adventurer, high school student",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Teen Titans, formerly Sentinels of Magic",
+        "relatives": "Trigon (father), Angela Roth (mother, deceased), Gluttony, Greed, Lust, Wrath, Envy, Sloth (half-brothers, status unknown)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/542-raven.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/542-raven.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/542-raven.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/542-raven.jpg"
+      }
+    },
+    {
+      "id": 546,
+      "name": "Red Hood",
+      "slug": "546-red-hood",
+      "powerstats": {
+        "intelligence": 85,
+        "strength": 15,
+        "speed": 25,
+        "durability": 30,
+        "power": 40,
+        "combat": 100
+      },
+      "biography": {
+        "fullName": "Jason Todd",
+        "alterEgos": "Robin II, Joker",
+        "aliases": [
+          "Robin",
+          "Red Robin",
+          "Batman",
+          "Nightwing",
+          "Arkham Knight"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman #635",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "180 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "work": {
+        "occupation": "Mercenary, Vigilante",
+        "base": "Batcave, Brainzarro's Ship"
+      },
+      "connections": {
+        "groupAffiliation": "formerly Batman Family, Teen Titans",
+        "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
+      }
+    },
+    {
+      "id": 557,
+      "name": "Rick Flag",
+      "slug": "557-rick-flag",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 11,
+        "speed": 23,
+        "durability": 28,
+        "power": 19,
+        "combat": 95
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "189 lb",
+          "85 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Richard Rogers Flag",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Brave and the Bold #25 (September 1959)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Government Agent, Covert Ops field Commander",
+        "base": "Belle Reve, Louisiana"
+      },
+      "connections": {
+        "groupAffiliation": "Suicide Squad, Task Force X",
+        "relatives": "Richard Flag, Sr. (father, deceased); Richard Flag III (son); Karin Grace (mother of child)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/557-rick-flag.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/557-rick-flag.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/557-rick-flag.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/557-rick-flag.jpg"
+      }
+    },
+    {
+      "id": 558,
+      "name": "Riddler",
+      "slug": "558-riddler",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 10,
+        "speed": 12,
+        "durability": 14,
+        "power": 10,
+        "combat": 14
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Edward Nigma",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "E. Nigma",
+          "Edward E. Nigma"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Detective Comics #140 (1948)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/558-riddler.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/558-riddler.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/558-riddler.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/558-riddler.jpg"
+      }
+    },
+    {
+      "id": 565,
+      "name": "Robin VI",
+      "slug": "565-robin-vi",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 8,
+        "speed": 25,
+        "durability": 20,
+        "power": 17,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Carrie Kelley",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "Gotham City",
+        "firstAppearance": "-",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/565-robin-vi.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/565-robin-vi.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/565-robin-vi.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/565-robin-vi.jpg"
+      }
+    },
+    {
+      "id": 576,
+      "name": "Scarecrow",
+      "slug": "576-scarecrow",
+      "powerstats": {
+        "intelligence": 81,
+        "strength": 10,
+        "speed": 12,
+        "durability": 14,
+        "power": 48,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "140 lb",
+          "63 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Jonathan Crane",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Special Professional Criminal",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Injustice Gang",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/050/819.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 427,
+  "next_cursor": 601
+}

@@ -1,0 +1,111 @@
+{
+  "characters": [
+    {
+      "id": 711,
+      "name": "White Canary",
+      "slug": "711-white-canary",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 7,
+        "speed": 33,
+        "durability": 15,
+        "power": 49,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Silk Sister",
+          "Sara Lance"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Birds of Prey #1",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/711-white-canary.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/711-white-canary.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/711-white-canary.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/711-white-canary.jpg"
+      }
+    },
+    {
+      "id": 731,
+      "name": "Zoom",
+      "slug": "731-zoom",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 10,
+        "speed": 100,
+        "durability": 28,
+        "power": 100,
+        "combat": 28
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "181 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Hunter Zolomon",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Flash Secret Files #3",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Keystone City, Kansas"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Society of Super Villains, formerly Keystone Police Department, F.B.I.",
+        "relatives": "Ashley Zolomon (ex-wife)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/731-zoom.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/731-zoom.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/731-zoom.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/731-zoom.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 601,
+  "next_cursor": 0
+}

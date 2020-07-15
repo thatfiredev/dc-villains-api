@@ -1,0 +1,540 @@
+{
+  "characters": [
+    {
+      "id": 601,
+      "name": "Sinestro",
+      "slug": "601-sinestro",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 85,
+        "speed": 53,
+        "durability": 64,
+        "power": 100,
+        "combat": 55
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Korugaran",
+        "height": [
+          "6'7",
+          "201 cm"
+        ],
+        "weight": [
+          "205 lb",
+          "92 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Thaal Sinestro",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Green Lantern",
+          "White Lantern",
+          "Yellow Lantern",
+          "Parallax",
+          "Indigo Lantern"
+        ],
+        "placeOfBirth": "Korugar City, Korugar",
+        "firstAppearance": "Green Lantern Vol 2 #7",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa"
+      },
+      "connections": {
+        "groupAffiliation": "Sinestro Corps, formerly Green Lantern Corps, Secret Society, Injustice League",
+        "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/601-sinestro.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/601-sinestro.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/601-sinestro.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/601-sinestro.jpg"
+      }
+    },
+    {
+      "id": 602,
+      "name": "Siren",
+      "slug": "602-siren",
+      "powerstats": {
+        "intelligence": 56,
+        "strength": 62,
+        "speed": 79,
+        "durability": 60,
+        "power": 92,
+        "combat": 60
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Atlantean",
+        "height": [
+          "5'9",
+          "175 cm"
+        ],
+        "weight": [
+          "160 lb",
+          "72 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Purple"
+      },
+      "biography": {
+        "fullName": "Hila",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Aquaman #22 (August, 1965)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "formely Atlantis"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "Mera (twin sister), Aquaman (brother-in-law)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/602-siren.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/602-siren.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/602-siren.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/602-siren.jpg"
+      }
+    },
+    {
+      "id": 609,
+      "name": "Solomon Grundy",
+      "slug": "609-solomon-grundy",
+      "powerstats": {
+        "intelligence": 9,
+        "strength": 93,
+        "speed": 13,
+        "durability": 100,
+        "power": 92,
+        "combat": 30
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Zombie",
+        "height": [
+          "9'2",
+          "279 cm"
+        ],
+        "weight": [
+          "971 lb",
+          "437 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "White"
+      },
+      "biography": {
+        "fullName": "Cyrus Gold",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Marshland Monster"
+        ],
+        "placeOfBirth": "Gotham City",
+        "firstAppearance": "All-American Comics #61 (October, 1944)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
+        "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/609-solomon-grundy.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/609-solomon-grundy.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/609-solomon-grundy.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/609-solomon-grundy.jpg"
+      }
+    },
+    {
+      "id": 637,
+      "name": "Steppenwolf",
+      "slug": "637-steppenwolf",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 100,
+        "speed": 83,
+        "durability": 100,
+        "power": 100,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "New God",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "203 lb",
+          "91 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Steppenwulf"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "The New Gods #7",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/637-steppenwolf.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/637-steppenwolf.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/637-steppenwolf.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/637-steppenwolf.jpg"
+      }
+    },
+    {
+      "id": 642,
+      "name": "Superboy-Prime",
+      "slug": "642-superboy-prime",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 100,
+        "speed": 100,
+        "durability": 100,
+        "power": 100,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Kryptonian",
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "170 lb",
+          "77 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black / Blue"
+      },
+      "biography": {
+        "fullName": "Kal-El",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper"
+        ],
+        "placeOfBirth": "Krypton (Earth-Prime)",
+        "firstAppearance": "DC Comics Presents #87 (November, 1985)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Black Lantern Corps, Legion of Super-Villains, Sinestro Corps",
+        "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/642-superboy-prime.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/642-superboy-prime.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/642-superboy-prime.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/642-superboy-prime.jpg"
+      }
+    },
+    {
+      "id": 645,
+      "name": "Swamp Thing",
+      "slug": "645-swamp-thing",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 95,
+        "speed": 25,
+        "durability": 100,
+        "power": 100,
+        "combat": 55
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Alec Holland",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Green Man",
+          "Swampy",
+          "the Weed",
+          "Le Bon Gumbo",
+          "Smalsh-Yegger (on Rann)"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Swamp Thing #1 (November, 1972)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Planet Elemental, former Biochemist",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "formerly (Parliament of Trees; Parliament of Stones, Parliament of Flames, Parliament of Waves, and Parliament of Vapors), The Parliament of Worlds",
+        "relatives": "Larry Holland (father, deceased); Alice Holland (mother, deceased); Edward Holland (brother); Linda Holland (first wife, deceased); Abigail Holland (second wife); Tef? Holland (daughter); Gregori Arcane (father-in-law, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/645-swamp-thing.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/645-swamp-thing.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/645-swamp-thing.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/645-swamp-thing.jpg"
+      }
+    },
+    {
+      "id": 657,
+      "name": "The Comedian",
+      "slug": "657-the-comedian",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 14,
+        "speed": 17,
+        "durability": 10,
+        "power": 12,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "225 lb",
+          "101 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Edward Morgen Blake",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Eddie Blake"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Watchmen #1 (September, 1986)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Former Adventurer; Government Agent",
+        "base": "New York City"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Crimebusters, Minutemen",
+        "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/657-the-comedian.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/657-the-comedian.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/657-the-comedian.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/657-the-comedian.jpg"
+      }
+    },
+    {
+      "id": 675,
+      "name": "Trigon",
+      "slug": "675-trigon",
+      "powerstats": {
+        "intelligence": 95,
+        "strength": 100,
+        "speed": 85,
+        "durability": 100,
+        "power": 100,
+        "combat": 80
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Lucifer",
+          "Satan,The Devil",
+          "Lord Trigon",
+          "Master Trigon",
+          "King Trigon",
+          "Conqueror of Worlds",
+          "Ruler of the Five Under Realms"
+        ],
+        "placeOfBirth": "Hell",
+        "firstAppearance": "New Teen Titans #5 (March, 1981)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Demon",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Yellow",
+        "hairColor": "Black"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Church of Blood",
+        "relatives": "Belial (son), Ruskoff (son), Suge (son), Raven (daughter)"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg"
+      }
+    },
+    {
+      "id": 678,
+      "name": "Two-Face",
+      "slug": "678-two-face",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 10,
+        "speed": 12,
+        "durability": 14,
+        "power": 9,
+        "combat": 28
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "182 lb",
+          "82 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Harvey Dent",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Apollo"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "-",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Reformed criminal; former district attorney",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/678-two-face.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/678-two-face.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/678-two-face.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/678-two-face.jpg"
+      }
+    },
+    {
+      "id": 706,
+      "name": "Warp",
+      "slug": "706-warp",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 10,
+        "speed": 23,
+        "durability": 28,
+        "power": 85,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "5'8",
+          "173 cm"
+        ],
+        "weight": [
+          "148 lb",
+          "67 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Emil LaSalle",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "The New Teen Titans #14 (December 1981)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Brotherhood of Evil, The Society",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/706-warp.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/706-warp.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/706-warp.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/706-warp.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 521,
+  "next_cursor": 711
+}

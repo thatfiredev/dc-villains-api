@@ -872,6 +872,59 @@
     }
   },
   {
+    "id": 733,
+    "name": "Clayface",
+    "slug": "733-clayface",
+    "powerstats": {
+      "intelligence": 65,
+      "strength": 65,
+      "speed": 35,
+      "durability": 85,
+      "power": 90,
+      "combat": 60
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Mutant",
+      "height": [
+        "5'11",
+        "180 cm"
+      ],
+      "weight": [
+        "180 lb",
+        "81 kg"
+      ],
+      "eyeColor": "Yellow",
+      "hairColor": "No Hair"
+    },
+    "biography": {
+      "fullName": "Basil Karlo",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "The Ultimate Clayface",
+        "Clay Thing"
+      ],
+      "placeOfBirth": "-",
+      "firstAppearance": "Detective Comics #40 (June, 1940)",
+      "publisher": "DC Comics",
+      "alignment": "neutral"
+    },
+    "work": {
+      "occupation": "Actor, Vigilante, Criminal",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "groupAffiliation": "Formerly The Society",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://www.superherodb.com/gallery2/075/5/570.jpg",
+      "sm": "https://www.superherodb.com/gallery2/075/5/570.jpg",
+      "md": "https://www.superherodb.com/gallery2/075/5/570.jpg",
+      "lg": "https://www.superherodb.com/gallery2/075/5/570.jpg"
+    }
+  },
+  {
     "id": 181,
     "name": "Clock King",
     "slug": "181-clock-king",

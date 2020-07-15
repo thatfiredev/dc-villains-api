@@ -44,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/no-portrait.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/no-portrait.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/no-portrait.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/no-portrait.jpg"
+    "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+    "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+    "md": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+    "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg"
   }
 }

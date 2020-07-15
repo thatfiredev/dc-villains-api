@@ -1,0 +1,532 @@
+{
+  "characters": [
+    {
+      "id": 386,
+      "name": "Killer Croc",
+      "slug": "386-killer-croc",
+      "powerstats": {
+        "intelligence": 19,
+        "strength": 53,
+        "speed": 35,
+        "durability": 90,
+        "power": 53,
+        "combat": 60
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Metahuman",
+        "height": [
+          "8'0",
+          "244 cm"
+        ],
+        "weight": [
+          "790 lb",
+          "356 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Waylon Jones",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman #357 (March, 1983)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Society of Super-Villains",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/386-killer-croc.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/386-killer-croc.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/386-killer-croc.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/386-killer-croc.jpg"
+      }
+    },
+    {
+      "id": 387,
+      "name": "Killer Frost",
+      "slug": "387-killer-frost",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 10,
+        "speed": 13,
+        "durability": 35,
+        "power": 59,
+        "combat": 30
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Caitlin Snow",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Fury of Firestorm: The Nuclear Men #19",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Scientist",
+        "base": "Pittsburgh"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/387-killer-frost.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/387-killer-frost.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/387-killer-frost.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/387-killer-frost.jpg"
+      }
+    },
+    {
+      "id": 390,
+      "name": "King Shark",
+      "slug": "390-king-shark",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 88,
+        "speed": 50,
+        "durability": 90,
+        "power": 86,
+        "combat": 40
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Animal",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Nanaue",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superboy Vol 4 #0",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Professional Criminal",
+        "base": "Honolulu, Hawaii"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/390-king-shark.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/390-king-shark.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/390-king-shark.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/390-king-shark.jpg"
+      }
+    },
+    {
+      "id": 405,
+      "name": "Lex Luthor",
+      "slug": "405-lex-luthor",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 53,
+        "speed": 25,
+        "durability": 65,
+        "power": 68,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2'",
+          "188 cm"
+        ],
+        "weight": [
+          "210 lb",
+          "95 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Lex Luthor",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Action Comics #23",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Owner of LexCorp",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Injustice Gang, Injustice League, Society of Supervillains",
+        "relatives": "Casey and Elaine Griggs (foster parents, deceased),\nLena Luthor (sister pre-Crisis; daughter post-Crisis),\nElizabeth Perske (ex-wife),\nPerry J. White Jr. (son, deceased),\nContessa Erica Alexandra del Portenza (wife, assumed deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/405-lex-luthor.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/405-lex-luthor.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/405-lex-luthor.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/405-lex-luthor.jpg"
+      }
+    },
+    {
+      "id": 408,
+      "name": "Lightning Lord",
+      "slug": "408-lightning-lord",
+      "powerstats": {
+        "intelligence": 44,
+        "strength": 10,
+        "speed": 23,
+        "durability": 42,
+        "power": 66,
+        "combat": 42
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'3",
+          "191 cm"
+        ],
+        "weight": [
+          "210 lb",
+          "95 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Mekt Ranzz",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "The Wanderers, former ally of the Legion of Super-Heroes.",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/408-lightning-lord.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/408-lightning-lord.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/408-lightning-lord.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/408-lightning-lord.jpg"
+      }
+    },
+    {
+      "id": 413,
+      "name": "Lobo",
+      "slug": "413-lobo",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 100,
+        "speed": 54,
+        "durability": 100,
+        "power": 100,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Czarnian",
+        "height": [
+          "7'6",
+          "229 cm"
+        ],
+        "weight": [
+          "640 lb",
+          "288 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Lobo",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Main Man",
+          "The 'Bo",
+          "Master Frag",
+          "Mister Machete",
+          "Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Omega Men # 3",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Assassin, Bounty Hunter, Priest",
+        "base": "Mobile throughout several galaxies"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly LEGION, Young Justice; First Celestial Church of the Triple Fish-God",
+        "relatives": "Slobo (clone)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/413-lobo.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/413-lobo.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/413-lobo.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/413-lobo.jpg"
+      }
+    },
+    {
+      "id": 427,
+      "name": "Man-Bat",
+      "slug": "427-man-bat",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 18,
+        "speed": 50,
+        "durability": 70,
+        "power": 33,
+        "combat": 30
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Robert Kirkland Langstrom",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Kirk Langstrom"
+        ],
+        "placeOfBirth": "Chicago, Illinois",
+        "firstAppearance": "Detective Comics #400 (June, 1970)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Zoologist",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Spirit Squad, The Network",
+        "relatives": "Francine Langstrom (wife), Rebecca Elizabeth Langtrom (daughter); Aaron Langstrom (son); Britt Langstrom (sister); Ted Friedel (brother-in-law)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/427-man-bat.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/427-man-bat.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/427-man-bat.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/427-man-bat.jpg"
+      }
+    },
+    {
+      "id": 436,
+      "name": "Match",
+      "slug": "436-match",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 95,
+        "speed": 83,
+        "durability": 85,
+        "power": 100,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Kent Connor",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Superboy",
+          "Superman"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
+        "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/436-match.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/436-match.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/436-match.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/436-match.jpg"
+      }
+    },
+    {
+      "id": 439,
+      "name": "Maxima",
+      "slug": "439-maxima",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 90,
+        "speed": 35,
+        "durability": 56,
+        "power": 81,
+        "combat": 75
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": null,
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "160 lb",
+          "72 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Queen Maxima",
+          "Empress of the Almeracian Empire"
+        ],
+        "placeOfBirth": "Almerac",
+        "firstAppearance": "-",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Adventurer, Queen of the Almerac Empire",
+        "base": "Imperial Royal Palace"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League Task Force, Extreme Justice",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/439-maxima.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/439-maxima.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/439-maxima.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/439-maxima.jpg"
+      }
+    },
+    {
+      "id": 445,
+      "name": "Metallo",
+      "slug": "445-metallo",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 53,
+        "speed": 23,
+        "durability": 95,
+        "power": 86,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Android",
+        "height": [
+          "6'5",
+          "196 cm"
+        ],
+        "weight": [
+          "200 lb",
+          "90 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "John Corben",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Professional criminal",
+        "base": "Mobile, though he generally operates out of Metropolis"
+      },
+      "connections": {
+        "groupAffiliation": "Superman Revenge Squad",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/445-metallo.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/445-metallo.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/445-metallo.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/445-metallo.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 246,
+  "next_cursor": 457
+}

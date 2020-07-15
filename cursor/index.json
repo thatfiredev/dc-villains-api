@@ -1,0 +1,542 @@
+{
+  "characters": [
+    {
+      "id": 20,
+      "name": "Amazo",
+      "slug": "20-amazo",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 100,
+        "speed": 83,
+        "durability": 100,
+        "power": 100,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Android",
+        "height": [
+          "8'5",
+          "257 cm"
+        ],
+        "weight": [
+          "385 lb",
+          "173 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Professor Ivos Amazing Android",
+          "Timazo",
+          "Humazo",
+          "Hourmazo"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Brave and the Bold #30 (July, 1960)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly the Secret Society of Super Villains",
+        "relatives": "Professor Ivo (creator), Kid Amazo (cyborg offspring)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/20-amazo.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/20-amazo.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/20-amazo.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/20-amazo.jpg"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Anti-Monitor",
+      "slug": "32-anti-monitor",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 100,
+        "speed": 50,
+        "durability": 100,
+        "power": 100,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "200",
+          "61.0 meters"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Yellow",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Monitor",
+          "Mobius"
+        ],
+        "placeOfBirth": "Moon of Qward",
+        "firstAppearance": "Crisis on Infinite Earths #4",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Qward, Antimatter Universe"
+      },
+      "connections": {
+        "groupAffiliation": "Sinestro Corps, Weaponers of Qward, Thunderers of Qward, Shadow Demons",
+        "relatives": "Monitor (\"brother\"), The Monitors"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/32-anti-monitor.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/32-anti-monitor.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/32-anti-monitor.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/32-anti-monitor.jpg"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Atlas",
+      "slug": "49-atlas",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 100,
+        "speed": 42,
+        "durability": 100,
+        "power": 27,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "6'6",
+          "198 cm"
+        ],
+        "weight": [
+          "280 lb",
+          "126 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Atlas the Great",
+          "Atlas the Untamed"
+        ],
+        "placeOfBirth": "Crystal Mountain",
+        "firstAppearance": "Action Comics #121",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Formely; Hyssa, Metropolis"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/49-atlas.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/49-atlas.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/49-atlas.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/49-atlas.jpg"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Bane",
+      "slug": "60-bane",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 38,
+        "speed": 23,
+        "durability": 56,
+        "power": 51,
+        "combat": 95
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'8",
+          "203 cm"
+        ],
+        "weight": [
+          "400 lb",
+          "180 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman: Vengeance of Bane #1 (January, 1993)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Santa Prisca"
+      },
+      "connections": {
+        "groupAffiliation": "Suicide Squad, The Secret Society of Super Villains",
+        "relatives": "King Snake (father)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/60-bane.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/60-bane.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/60-bane.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/60-bane.jpg"
+      }
+    },
+    {
+      "id": 81,
+      "name": "Big Barda",
+      "slug": "81-big-barda",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 100,
+        "speed": 79,
+        "durability": 100,
+        "power": 100,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "New God",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "300 lb",
+          "135 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Barda Free",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Barda",
+          "the Strongest Woman in the World"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Mister Miracle (Volume 1) #4",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Gotham City, New Genesis, formerly Apokolips"
+      },
+      "connections": {
+        "groupAffiliation": "Apocalypse, New Gods, Birds of Prey, formerly Female Furies, formerly Justice League of America",
+        "relatives": "Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/81-big-barda.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/81-big-barda.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/81-big-barda.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/81-big-barda.jpg"
+      }
+    },
+    {
+      "id": 93,
+      "name": "Bizarro",
+      "slug": "93-bizarro",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 95,
+        "speed": 100,
+        "durability": 100,
+        "power": 100,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Bizarro",
+        "height": [
+          "6'3",
+          "191 cm"
+        ],
+        "weight": [
+          "345 lb",
+          "155 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Bizarro",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Superboy Vol. 1 #68 (1958)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Bizarro World"
+      },
+      "connections": {
+        "groupAffiliation": "Superman Revenge Squad; Bizarros of Bizarro World; former associate of the Secret Society of Super-Villains; Joker League of Anarchy; former partner of Batzarro",
+        "relatives": "Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/93-bizarro.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/93-bizarro.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/93-bizarro.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/93-bizarro.jpg"
+      }
+    },
+    {
+      "id": 95,
+      "name": "Black Adam",
+      "slug": "95-black-adam",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 100,
+        "speed": 92,
+        "durability": 100,
+        "power": 100,
+        "combat": 56
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'3",
+          "191 cm"
+        ],
+        "weight": [
+          "250 lb",
+          "113 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Teth-Adam",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Hassan Bari",
+          "Theo Adam",
+          "Mighty Adam",
+          "Khem-Adam"
+        ],
+        "placeOfBirth": "Kahndaq, Egypt",
+        "firstAppearance": "Marvel Family #1 (December, 1945)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City"
+      },
+      "connections": {
+        "groupAffiliation": "None; Formerly the Black Marvel Family, Society of Villains, Injustice Society, Justice Society of America",
+        "relatives": "Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/95-black-adam.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/95-black-adam.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/95-black-adam.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/95-black-adam.jpg"
+      }
+    },
+    {
+      "id": 100,
+      "name": "Black Flash",
+      "slug": "100-black-flash",
+      "powerstats": {
+        "intelligence": 44,
+        "strength": 10,
+        "speed": 100,
+        "durability": 80,
+        "power": 100,
+        "combat": 30
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Barry Allen",
+          "Flashback",
+          "Slow Lightning",
+          "Black Racer",
+          "Death Flash",
+          "God of Death"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Flash Vol 2 #138",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/100-black-flash.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/100-black-flash.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/100-black-flash.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/100-black-flash.jpg"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Black Manta",
+      "slug": "105-black-manta",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 28,
+        "speed": 50,
+        "durability": 60,
+        "power": 76,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "205 lb",
+          "92 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "David",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Devil Ray",
+          "Scourge of the Seven Seas",
+          "Yellow Lantern"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Aquaman #35 (August, 1967)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/105-black-manta.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/105-black-manta.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/105-black-manta.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/105-black-manta.jpg"
+      }
+    },
+    {
+      "id": 136,
+      "name": "Brainiac",
+      "slug": "136-brainiac",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 95,
+        "speed": 63,
+        "durability": 90,
+        "power": 60,
+        "combat": 75
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Android",
+        "height": [
+          "6'6",
+          "198 cm"
+        ],
+        "weight": [
+          "300 lb",
+          "135 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Vril Dox",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Milton Fine"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Action Comics #242 (July 1958)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Lex Luthor",
+        "relatives": "Vril Dox II (son), Brainiac 5 (descendant)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/136-brainiac.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/136-brainiac.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/136-brainiac.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/136-brainiac.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 0,
+  "next_cursor": 152
+}

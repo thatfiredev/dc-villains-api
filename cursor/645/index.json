@@ -1,0 +1,323 @@
+{
+  "characters": [
+    {
+      "id": 645,
+      "name": "Swamp Thing",
+      "slug": "645-swamp-thing",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 95,
+        "speed": 25,
+        "durability": 100,
+        "power": 100,
+        "combat": 55
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Alec Holland",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Green Man",
+          "Swampy",
+          "the Weed",
+          "Le Bon Gumbo",
+          "Smalsh-Yegger (on Rann)"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Swamp Thing #1 (November, 1972)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Planet Elemental, former Biochemist",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "formerly (Parliament of Trees; Parliament of Stones, Parliament of Flames, Parliament of Waves, and Parliament of Vapors), The Parliament of Worlds",
+        "relatives": "Larry Holland (father, deceased); Alice Holland (mother, deceased); Edward Holland (brother); Linda Holland (first wife, deceased); Abigail Holland (second wife); Tef? Holland (daughter); Gregori Arcane (father-in-law, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/645-swamp-thing.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/645-swamp-thing.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/645-swamp-thing.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/645-swamp-thing.jpg"
+      }
+    },
+    {
+      "id": 657,
+      "name": "The Comedian",
+      "slug": "657-the-comedian",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 14,
+        "speed": 17,
+        "durability": 10,
+        "power": 12,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "225 lb",
+          "101 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Edward Morgen Blake",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Eddie Blake"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Watchmen #1 (September, 1986)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Former Adventurer; Government Agent",
+        "base": "New York City"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Crimebusters, Minutemen",
+        "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/657-the-comedian.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/657-the-comedian.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/657-the-comedian.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/657-the-comedian.jpg"
+      }
+    },
+    {
+      "id": 678,
+      "name": "Two-Face",
+      "slug": "678-two-face",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 10,
+        "speed": 12,
+        "durability": 14,
+        "power": 9,
+        "combat": 28
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "182 lb",
+          "82 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Harvey Dent",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Apollo"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "-",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Reformed criminal; former district attorney",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/678-two-face.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/678-two-face.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/678-two-face.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/678-two-face.jpg"
+      }
+    },
+    {
+      "id": 706,
+      "name": "Warp",
+      "slug": "706-warp",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 10,
+        "speed": 23,
+        "durability": 28,
+        "power": 85,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "5'8",
+          "173 cm"
+        ],
+        "weight": [
+          "148 lb",
+          "67 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Emil LaSalle",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "The New Teen Titans #14 (December 1981)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Brotherhood of Evil, The Society",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/706-warp.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/706-warp.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/706-warp.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/706-warp.jpg"
+      }
+    },
+    {
+      "id": 711,
+      "name": "White Canary",
+      "slug": "711-white-canary",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 7,
+        "speed": 33,
+        "durability": 15,
+        "power": 49,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Silk Sister",
+          "Sara Lance"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Birds of Prey #1",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/711-white-canary.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/711-white-canary.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/711-white-canary.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/711-white-canary.jpg"
+      }
+    },
+    {
+      "id": 731,
+      "name": "Zoom",
+      "slug": "731-zoom",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 10,
+        "speed": 100,
+        "durability": 28,
+        "power": 100,
+        "combat": 28
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "181 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Hunter Zolomon",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Flash Secret Files #3",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Keystone City, Kansas"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Society of Super Villains, formerly Keystone Police Department, F.B.I.",
+        "relatives": "Ashley Zolomon (ex-wife)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/731-zoom.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/731-zoom.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/731-zoom.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/731-zoom.jpg"
+      }
+    }
+  ],
+  "previous_cursor": 542,
+  "next_cursor": 0
+}

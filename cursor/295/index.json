@@ -1,6 +1,58 @@
 {
   "characters": [
     {
+      "id": 295,
+      "name": "Granny Goodness",
+      "slug": "295-granny-goodness",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 80,
+        "speed": 80,
+        "durability": 100,
+        "power": 100,
+        "combat": 100
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "Goodness",
+        "aliases": [
+          "Athena"
+        ],
+        "placeOfBirth": "Apokolips",
+        "firstAppearance": "Mister Miracle vol. 1 #2 (May, 1971)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "New God",
+        "height": [
+          "5'10",
+          "178 cm"
+        ],
+        "weight": [
+          "256 lb",
+          "115 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "White"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Female Furies, Darkseid's Elite",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
+      }
+    },
+    {
       "id": 309,
       "name": "Harley Quinn",
       "slug": "309-harley-quinn",
@@ -477,60 +529,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/405-lex-luthor.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/405-lex-luthor.jpg"
       }
-    },
-    {
-      "id": 408,
-      "name": "Lightning Lord",
-      "slug": "408-lightning-lord",
-      "powerstats": {
-        "intelligence": 44,
-        "strength": 10,
-        "speed": 23,
-        "durability": 42,
-        "power": 66,
-        "combat": 42
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "6'3",
-          "191 cm"
-        ],
-        "weight": [
-          "210 lb",
-          "95 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Red"
-      },
-      "biography": {
-        "fullName": "Mekt Ranzz",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "The Wanderers, former ally of the Legion of Super-Heroes.",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/408-lightning-lord.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/408-lightning-lord.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/408-lightning-lord.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/408-lightning-lord.jpg"
-      }
     }
   ],
   "previous_cursor": 214,
-  "next_cursor": 413
+  "next_cursor": 408
 }

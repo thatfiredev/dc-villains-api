@@ -109,6 +109,61 @@
       }
     },
     {
+      "id": 735,
+      "name": "Doctor Sivana",
+      "slug": "735-doctor-sivana",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 1,
+        "speed": 15,
+        "durability": 25,
+        "power": 100,
+        "combat": 65
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'6 lb",
+          "168 kg"
+        ],
+        "weight": [
+          "123 lb",
+          "55 kg"
+        ],
+        "eyeColor": "Grey",
+        "hairColor": "None"
+      },
+      "biography": {
+        "fullName": "Thaddeus Bodog Sivana Sr",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The World's Wickedest Scientist",
+          "The Doctor",
+          "Siv",
+          "Thad"
+        ],
+        "placeOfBirth": "Fawcett City",
+        "firstAppearance": "Whiz Comics #2 (December, 1939)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Scientist, Criminal Master mind, Mayor",
+        "base": "Fawcett City"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "Magnificus Sivana (son), Beautia Sivana (daughter), Marilyn Batson (stepsister)"
+      },
+      "images": {
+        "xs": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350",
+        "sm": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350",
+        "md": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350",
+        "lg": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350"
+      }
+    },
+    {
       "id": 230,
       "name": "Doomsday",
       "slug": "230-doomsday",
@@ -475,60 +530,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/294-gorilla-grodd.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/294-gorilla-grodd.jpg"
       }
-    },
-    {
-      "id": 295,
-      "name": "Granny Goodness",
-      "slug": "295-granny-goodness",
-      "powerstats": {
-        "intelligence": 100,
-        "strength": 80,
-        "speed": 80,
-        "durability": 100,
-        "power": 100,
-        "combat": 100
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "Goodness",
-        "aliases": [
-          "Athena"
-        ],
-        "placeOfBirth": "Apokolips",
-        "firstAppearance": "Mister Miracle vol. 1 #2 (May, 1971)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "New God",
-        "height": [
-          "5'10",
-          "178 cm"
-        ],
-        "weight": [
-          "256 lb",
-          "115 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "White"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Female Furies, Darkseid's Elite",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
-        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
-        "md": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
-        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
-      }
     }
   ],
   "previous_cursor": 732,
-  "next_cursor": 309
+  "next_cursor": 295
 }

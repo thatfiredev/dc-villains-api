@@ -1191,6 +1191,61 @@
     }
   },
   {
+    "id": 735,
+    "name": "Doctor Sivana",
+    "slug": "735-doctor-sivana",
+    "powerstats": {
+      "intelligence": 100,
+      "strength": 1,
+      "speed": 15,
+      "durability": 25,
+      "power": 100,
+      "combat": 65
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "5'6 lb",
+        "168 kg"
+      ],
+      "weight": [
+        "123 lb",
+        "55 kg"
+      ],
+      "eyeColor": "Grey",
+      "hairColor": "None"
+    },
+    "biography": {
+      "fullName": "Thaddeus Bodog Sivana Sr",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "The World's Wickedest Scientist",
+        "The Doctor",
+        "Siv",
+        "Thad"
+      ],
+      "placeOfBirth": "Fawcett City",
+      "firstAppearance": "Whiz Comics #2 (December, 1939)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "work": {
+      "occupation": "Scientist, Criminal Master mind, Mayor",
+      "base": "Fawcett City"
+    },
+    "connections": {
+      "groupAffiliation": "-",
+      "relatives": "Magnificus Sivana (son), Beautia Sivana (daughter), Marilyn Batson (stepsister)"
+    },
+    "images": {
+      "xs": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350",
+      "sm": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350",
+      "md": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350",
+      "lg": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/52/Thaddeus_Sivana_Prime_Earth_0001.jpg/revision/latest/scale-to-width-down/350"
+    }
+  },
+  {
     "id": 230,
     "name": "Doomsday",
     "slug": "230-doomsday",

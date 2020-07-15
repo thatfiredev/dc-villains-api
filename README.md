@@ -41,7 +41,7 @@ curl https://rosariopfernandes.github.io/dc-villains-api/id/{id}/
     ```
 4. Add the character data to the index.json file and run the generator:
    ```bash
-    node generator/index.js
+    node scripts/generate_api.js
     ```
 5. Commit the file you created and the generated files and send a PR. 
 

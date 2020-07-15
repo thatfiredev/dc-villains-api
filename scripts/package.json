@@ -2,7 +2,7 @@
   "name": "dc-villains-api-generator",
   "version": "1.0.0",
   "description": "Node 10 script to generate the API",
-  "main": "index.js",
+  "main": "generate_api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

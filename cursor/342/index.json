@@ -1,6 +1,115 @@
 {
   "characters": [
     {
+      "id": 342,
+      "name": "Indigo",
+      "slug": "342-indigo",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 63,
+        "speed": 50,
+        "durability": 50,
+        "power": 100,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Alien",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "Purple"
+      },
+      "biography": {
+        "fullName": "Iroque",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Indigo-1"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Leader of the Indigo Tribe",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Indigo Tribe; formerly the New Guardians",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/342-indigo.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/342-indigo.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/342-indigo.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/342-indigo.jpg"
+      }
+    },
+    {
+      "id": 370,
+      "name": "Joker",
+      "slug": "370-joker",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 10,
+        "speed": 12,
+        "durability": 60,
+        "power": 43,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'5",
+          "196 cm"
+        ],
+        "weight": [
+          "192 lb",
+          "86 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Green"
+      },
+      "biography": {
+        "fullName": "Jack Napier",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Red Hood I",
+          "Clown Prince of Crime",
+          "Harlequin of Hate",
+          "Jack Napier",
+          "Joe Kerr",
+          "Mr. J"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman #1 (Spring 1940)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
+      },
+      "connections": {
+        "groupAffiliation": "Black Glove, Injustice Gang, Injustice League, Joker League of Anarchy",
+        "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/370-joker.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/370-joker.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/370-joker.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/370-joker.jpg"
+      }
+    },
+    {
       "id": 386,
       "name": "Killer Croc",
       "slug": "386-killer-croc",
@@ -420,113 +529,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/436-match.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/436-match.jpg"
       }
-    },
-    {
-      "id": 439,
-      "name": "Maxima",
-      "slug": "439-maxima",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 90,
-        "speed": 35,
-        "durability": 56,
-        "power": 81,
-        "combat": 75
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": null,
-        "height": [
-          "5'11",
-          "180 cm"
-        ],
-        "weight": [
-          "160 lb",
-          "72 kg"
-        ],
-        "eyeColor": "Brown",
-        "hairColor": "Red"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Queen Maxima",
-          "Empress of the Almeracian Empire"
-        ],
-        "placeOfBirth": "Almerac",
-        "firstAppearance": "-",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Adventurer, Queen of the Almerac Empire",
-        "base": "Imperial Royal Palace"
-      },
-      "connections": {
-        "groupAffiliation": "Justice League Task Force, Extreme Justice",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/439-maxima.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/439-maxima.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/439-maxima.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/439-maxima.jpg"
-      }
-    },
-    {
-      "id": 445,
-      "name": "Metallo",
-      "slug": "445-metallo",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 53,
-        "speed": 23,
-        "durability": 95,
-        "power": 86,
-        "combat": 64
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Android",
-        "height": [
-          "6'5",
-          "196 cm"
-        ],
-        "weight": [
-          "200 lb",
-          "90 kg"
-        ],
-        "eyeColor": "Green",
-        "hairColor": "Brown"
-      },
-      "biography": {
-        "fullName": "John Corben",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "-"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Professional criminal",
-        "base": "Mobile, though he generally operates out of Metropolis"
-      },
-      "connections": {
-        "groupAffiliation": "Superman Revenge Squad",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/445-metallo.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/445-metallo.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/445-metallo.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/445-metallo.jpg"
-      }
     }
   ],
-  "previous_cursor": 246,
-  "next_cursor": 457
+  "previous_cursor": 230,
+  "next_cursor": 439
 }

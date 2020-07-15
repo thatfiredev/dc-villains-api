@@ -1,6 +1,113 @@
 {
   "characters": [
     {
+      "id": 528,
+      "name": "Professor Zoom",
+      "slug": "528-professor-zoom",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 10,
+        "speed": 100,
+        "durability": 20,
+        "power": 83,
+        "combat": 20
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "179 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Strawberry Blond"
+      },
+      "biography": {
+        "fullName": "Eobard Thawne",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Reverse Flash",
+          "Black Flash",
+          "Adrian Zoom",
+          "Mister Zyx"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Flash #139 (September, 1963)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Central Cityplex, 25th Century"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Secret Society of Super-Villains, Black Lantern Corps, White Lantern Corps",
+        "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/528-professor-zoom.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/528-professor-zoom.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/528-professor-zoom.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/528-professor-zoom.jpg"
+      }
+    },
+    {
+      "id": 538,
+      "name": "Ra's Al Ghul",
+      "slug": "538-ras-al-ghul",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 28,
+        "speed": 32,
+        "durability": 42,
+        "power": 27,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'4",
+          "193 cm"
+        ],
+        "weight": [
+          "215 lb",
+          "97 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Grey"
+      },
+      "biography": {
+        "fullName": "Ra's Al Ghul",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Demon's Head"
+        ],
+        "placeOfBirth": "Egypt",
+        "firstAppearance": "Batman #232 (June, 1971)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Eco Terrorist, Businessman, Cult Leader",
+        "base": "mobile"
+      },
+      "connections": {
+        "groupAffiliation": "League of Assassins",
+        "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg"
+      }
+    },
+    {
       "id": 542,
       "name": "Raven",
       "slug": "542-raven",
@@ -51,6 +158,62 @@
         "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/542-raven.jpg",
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/542-raven.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/542-raven.jpg"
+      }
+    },
+    {
+      "id": 546,
+      "name": "Red Hood",
+      "slug": "546-red-hood",
+      "powerstats": {
+        "intelligence": 85,
+        "strength": 15,
+        "speed": 25,
+        "durability": 30,
+        "power": 40,
+        "combat": 100
+      },
+      "biography": {
+        "fullName": "Jason Todd",
+        "alterEgos": "Robin II, Joker",
+        "aliases": [
+          "Robin",
+          "Red Robin",
+          "Batman",
+          "Nightwing",
+          "Arkham Knight"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman #635",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "180 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "work": {
+        "occupation": "Mercenary, Vigilante",
+        "base": "Batcave, Brainzarro's Ship"
+      },
+      "connections": {
+        "groupAffiliation": "formerly Batman Family, Teen Titans",
+        "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
       }
     },
     {
@@ -369,164 +532,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/602-siren.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/602-siren.jpg"
       }
-    },
-    {
-      "id": 609,
-      "name": "Solomon Grundy",
-      "slug": "609-solomon-grundy",
-      "powerstats": {
-        "intelligence": 9,
-        "strength": 93,
-        "speed": 13,
-        "durability": 100,
-        "power": 92,
-        "combat": 30
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Zombie",
-        "height": [
-          "9'2",
-          "279 cm"
-        ],
-        "weight": [
-          "971 lb",
-          "437 kg"
-        ],
-        "eyeColor": "Black",
-        "hairColor": "White"
-      },
-      "biography": {
-        "fullName": "Cyrus Gold",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Marshland Monster"
-        ],
-        "placeOfBirth": "Gotham City",
-        "firstAppearance": "All-American Comics #61 (October, 1944)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
-        "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/609-solomon-grundy.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/609-solomon-grundy.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/609-solomon-grundy.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/609-solomon-grundy.jpg"
-      }
-    },
-    {
-      "id": 637,
-      "name": "Steppenwolf",
-      "slug": "637-steppenwolf",
-      "powerstats": {
-        "intelligence": 94,
-        "strength": 100,
-        "speed": 83,
-        "durability": 100,
-        "power": 100,
-        "combat": 100
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "New God",
-        "height": [
-          "6'0",
-          "183 cm"
-        ],
-        "weight": [
-          "203 lb",
-          "91 kg"
-        ],
-        "eyeColor": "Red",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Steppenwulf"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "The New Gods #7",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/637-steppenwolf.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/637-steppenwolf.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/637-steppenwolf.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/637-steppenwolf.jpg"
-      }
-    },
-    {
-      "id": 642,
-      "name": "Superboy-Prime",
-      "slug": "642-superboy-prime",
-      "powerstats": {
-        "intelligence": 94,
-        "strength": 100,
-        "speed": 100,
-        "durability": 100,
-        "power": 100,
-        "combat": 85
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Kryptonian",
-        "height": [
-          "5'11",
-          "180 cm"
-        ],
-        "weight": [
-          "170 lb",
-          "77 kg"
-        ],
-        "eyeColor": "Blue",
-        "hairColor": "Black / Blue"
-      },
-      "biography": {
-        "fullName": "Kal-El",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper"
-        ],
-        "placeOfBirth": "Krypton (Earth-Prime)",
-        "firstAppearance": "DC Comics Presents #87 (November, 1985)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
-      },
-      "connections": {
-        "groupAffiliation": "Formerly Black Lantern Corps, Legion of Super-Villains, Sinestro Corps",
-        "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/642-superboy-prime.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/642-superboy-prime.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/642-superboy-prime.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/642-superboy-prime.jpg"
-      }
     }
   ],
-  "previous_cursor": 457,
-  "next_cursor": 645
+  "previous_cursor": 439,
+  "next_cursor": 609
 }

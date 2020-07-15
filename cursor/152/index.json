@@ -58,6 +58,63 @@
       }
     },
     {
+      "id": 165,
+      "name": "Catwoman",
+      "slug": "165-catwoman",
+      "powerstats": {
+        "intelligence": 69,
+        "strength": 11,
+        "speed": 33,
+        "durability": 28,
+        "power": 27,
+        "combat": 85
+      },
+      "biography": {
+        "fullName": "Selina Kyle",
+        "alterEgos": "Selina Calabrese",
+        "aliases": [
+          "The Cat",
+          "Irena Dubrovna",
+          "Elva Barr",
+          "Sadie Kelowski",
+          "Madame Moderne",
+          "Marguerite Tone"
+        ],
+        "placeOfBirth": "Gotham City",
+        "firstAppearance": "Batman #1 (Spring 1940)",
+        "publisher": "DC Comics",
+        "alignment": "neutral"
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'9",
+          "175 cm"
+        ],
+        "weight": [
+          "135 lb",
+          "61 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Black"
+      },
+      "work": {
+        "occupation": "Thief",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
+        "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg"
+      }
+    },
+    {
       "id": 170,
       "name": "Chameleon",
       "slug": "170-chameleon",
@@ -492,60 +549,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/216-deathstroke.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/216-deathstroke.jpg"
       }
-    },
-    {
-      "id": 230,
-      "name": "Doomsday",
-      "slug": "230-doomsday",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 100,
-        "speed": 67,
-        "durability": 100,
-        "power": 100,
-        "combat": 90
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Alien",
-        "height": [
-          "8'0",
-          "244 cm"
-        ],
-        "weight": [
-          "915 lb",
-          "412 kg"
-        ],
-        "eyeColor": "Red",
-        "hairColor": "White"
-      },
-      "biography": {
-        "fullName": "Doomsday",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "The Ultimate Lifeform"
-        ],
-        "placeOfBirth": "Krypton",
-        "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "Destroyer",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Secret Society of Super Villains, Suicide Squad, Apokolips",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/230-doomsday.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/230-doomsday.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/230-doomsday.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/230-doomsday.jpg"
-      }
     }
   ],
   "previous_cursor": -1,
-  "next_cursor": 246
+  "next_cursor": 230
 }

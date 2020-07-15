@@ -1,6 +1,58 @@
 {
   "characters": [
     {
+      "id": 230,
+      "name": "Doomsday",
+      "slug": "230-doomsday",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 100,
+        "speed": 67,
+        "durability": 100,
+        "power": 100,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Alien",
+        "height": [
+          "8'0",
+          "244 cm"
+        ],
+        "weight": [
+          "915 lb",
+          "412 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "White"
+      },
+      "biography": {
+        "fullName": "Doomsday",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Ultimate Lifeform"
+        ],
+        "placeOfBirth": "Krypton",
+        "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Destroyer",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Society of Super Villains, Suicide Squad, Apokolips",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/230-doomsday.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/230-doomsday.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/230-doomsday.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/230-doomsday.jpg"
+      }
+    },
+    {
       "id": 246,
       "name": "Etrigan",
       "slug": "246-etrigan",
@@ -222,7 +274,7 @@
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Old God",
         "height": [
           "-",
           "0 cm"
@@ -235,14 +287,14 @@
         "hairColor": "-"
       },
       "biography": {
-        "fullName": "",
+        "fullName": "William Matthews",
         "alterEgos": "No alter egos found.",
         "aliases": [
           "Nephut-Sha",
           "Hassan Kareem"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Incredible Hulk #257 (1981)",
+        "placeOfBirth": "Urgrund",
+        "firstAppearance": "New Year's Evil: Gog #1 (February, 1998)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
@@ -251,14 +303,14 @@
         "base": "-"
       },
       "connections": {
-        "groupAffiliation": "Sinister Six",
+        "groupAffiliation": "Sinister Six, Church of Superman",
         "relatives": "Seth (creator), Magog (\"brother\")"
       },
       "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/no-portrait.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/no-portrait.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/no-portrait.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/no-portrait.jpg"
+        "xs": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+        "sm": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+        "md": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+        "lg": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg"
       }
     },
     {
@@ -314,6 +366,58 @@
         "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/294-gorilla-grodd.jpg",
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/294-gorilla-grodd.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/294-gorilla-grodd.jpg"
+      }
+    },
+    {
+      "id": 295,
+      "name": "Granny Goodness",
+      "slug": "295-granny-goodness",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 80,
+        "speed": 80,
+        "durability": 100,
+        "power": 100,
+        "combat": 100
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "Goodness",
+        "aliases": [
+          "Athena"
+        ],
+        "placeOfBirth": "Apokolips",
+        "firstAppearance": "Mister Miracle vol. 1 #2 (May, 1971)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "New God",
+        "height": [
+          "5'10",
+          "178 cm"
+        ],
+        "weight": [
+          "256 lb",
+          "115 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "White"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Female Furies, Darkseid's Elite",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
       }
     },
     {
@@ -424,117 +528,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/320-heat-wave.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/320-heat-wave.jpg"
       }
-    },
-    {
-      "id": 342,
-      "name": "Indigo",
-      "slug": "342-indigo",
-      "powerstats": {
-        "intelligence": 75,
-        "strength": 63,
-        "speed": 50,
-        "durability": 50,
-        "power": 100,
-        "combat": 50
-      },
-      "appearance": {
-        "gender": "Female",
-        "race": "Alien",
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "Purple"
-      },
-      "biography": {
-        "fullName": "Iroque",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Indigo-1"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
-        "publisher": "DC Comics",
-        "alignment": "neutral"
-      },
-      "work": {
-        "occupation": "Leader of the Indigo Tribe",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "Indigo Tribe; formerly the New Guardians",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/342-indigo.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/342-indigo.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/342-indigo.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/342-indigo.jpg"
-      }
-    },
-    {
-      "id": 370,
-      "name": "Joker",
-      "slug": "370-joker",
-      "powerstats": {
-        "intelligence": 100,
-        "strength": 10,
-        "speed": 12,
-        "durability": 60,
-        "power": 43,
-        "combat": 70
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Human",
-        "height": [
-          "6'5",
-          "196 cm"
-        ],
-        "weight": [
-          "192 lb",
-          "86 kg"
-        ],
-        "eyeColor": "Green",
-        "hairColor": "Green"
-      },
-      "biography": {
-        "fullName": "Jack Napier",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "Red Hood I",
-          "Clown Prince of Crime",
-          "Harlequin of Hate",
-          "Jack Napier",
-          "Joe Kerr",
-          "Mr. J"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Batman #1 (Spring 1940)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
-      },
-      "connections": {
-        "groupAffiliation": "Black Glove, Injustice Gang, Injustice League, Joker League of Anarchy",
-        "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/370-joker.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/370-joker.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/370-joker.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/370-joker.jpg"
-      }
     }
   ],
   "previous_cursor": 152,
-  "next_cursor": 386
+  "next_cursor": 342
 }

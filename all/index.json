@@ -593,6 +593,63 @@
     }
   },
   {
+    "id": 165,
+    "name": "Catwoman",
+    "slug": "165-catwoman",
+    "powerstats": {
+      "intelligence": 69,
+      "strength": 11,
+      "speed": 33,
+      "durability": 28,
+      "power": 27,
+      "combat": 85
+    },
+    "biography": {
+      "fullName": "Selina Kyle",
+      "alterEgos": "Selina Calabrese",
+      "aliases": [
+        "The Cat",
+        "Irena Dubrovna",
+        "Elva Barr",
+        "Sadie Kelowski",
+        "Madame Moderne",
+        "Marguerite Tone"
+      ],
+      "placeOfBirth": "Gotham City",
+      "firstAppearance": "Batman #1 (Spring 1940)",
+      "publisher": "DC Comics",
+      "alignment": "neutral"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": [
+        "5'9",
+        "175 cm"
+      ],
+      "weight": [
+        "135 lb",
+        "61 kg"
+      ],
+      "eyeColor": "Green",
+      "hairColor": "Black"
+    },
+    "work": {
+      "occupation": "Thief",
+      "base": "Gotham City"
+    },
+    "connections": {
+      "groupAffiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
+      "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
+    },
+    "images": {
+      "xs": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg",
+      "sm": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg",
+      "md": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg",
+      "lg": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg"
+    }
+  },
+  {
     "id": 170,
     "name": "Chameleon",
     "slug": "170-chameleon",
@@ -1302,7 +1359,7 @@
     },
     "appearance": {
       "gender": "Male",
-      "race": null,
+      "race": "Old God",
       "height": [
         "-",
         "0 cm"
@@ -1315,14 +1372,14 @@
       "hairColor": "-"
     },
     "biography": {
-      "fullName": "",
+      "fullName": "William Matthews",
       "alterEgos": "No alter egos found.",
       "aliases": [
         "Nephut-Sha",
         "Hassan Kareem"
       ],
-      "placeOfBirth": "-",
-      "firstAppearance": "Incredible Hulk #257 (1981)",
+      "placeOfBirth": "Urgrund",
+      "firstAppearance": "New Year's Evil: Gog #1 (February, 1998)",
       "publisher": "DC Comics",
       "alignment": "bad"
     },
@@ -1331,14 +1388,14 @@
       "base": "-"
     },
     "connections": {
-      "groupAffiliation": "Sinister Six",
+      "groupAffiliation": "Sinister Six, Church of Superman",
       "relatives": "Seth (creator), Magog (\"brother\")"
     },
     "images": {
-      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/no-portrait.jpg",
-      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/no-portrait.jpg",
-      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/no-portrait.jpg",
-      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/no-portrait.jpg"
+      "xs": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+      "sm": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+      "md": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg",
+      "lg": "https://upload.wikimedia.org/wikipedia/en/6/64/JSA16_Gog.jpg"
     }
   },
   {
@@ -1394,6 +1451,58 @@
       "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/294-gorilla-grodd.jpg",
       "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/294-gorilla-grodd.jpg",
       "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/294-gorilla-grodd.jpg"
+    }
+  },
+  {
+    "id": 295,
+    "name": "Granny Goodness",
+    "slug": "295-granny-goodness",
+    "powerstats": {
+      "intelligence": 100,
+      "strength": 80,
+      "speed": 80,
+      "durability": 100,
+      "power": 100,
+      "combat": 100
+    },
+    "biography": {
+      "fullName": "",
+      "alterEgos": "Goodness",
+      "aliases": [
+        "Athena"
+      ],
+      "placeOfBirth": "Apokolips",
+      "firstAppearance": "Mister Miracle vol. 1 #2 (May, 1971)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "New God",
+      "height": [
+        "5'10",
+        "178 cm"
+      ],
+      "weight": [
+        "256 lb",
+        "115 kg"
+      ],
+      "eyeColor": "Blue",
+      "hairColor": "White"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    },
+    "connections": {
+      "groupAffiliation": "Female Furies, Darkseid's Elite",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+      "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+      "md": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg",
+      "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
     }
   },
   {
@@ -2292,10 +2401,10 @@
       "relatives": "-"
     },
     "images": {
-      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/no-portrait.jpg",
-      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/no-portrait.jpg",
-      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/no-portrait.jpg",
-      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/no-portrait.jpg"
+      "xs": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+      "sm": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+      "md": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg",
+      "lg": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg"
     }
   },
   {
@@ -2659,10 +2768,10 @@
       "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
     },
     "images": {
-      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/538-ras-al-ghul.jpg",
-      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/538-ras-al-ghul.jpg",
-      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/538-ras-al-ghul.jpg",
-      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/538-ras-al-ghul.jpg"
+      "xs": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+      "sm": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+      "md": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg",
+      "lg": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg"
     }
   },
   {
@@ -2716,6 +2825,62 @@
       "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/542-raven.jpg",
       "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/542-raven.jpg",
       "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/542-raven.jpg"
+    }
+  },
+  {
+    "id": 546,
+    "name": "Red Hood",
+    "slug": "546-red-hood",
+    "powerstats": {
+      "intelligence": 85,
+      "strength": 15,
+      "speed": 25,
+      "durability": 30,
+      "power": 40,
+      "combat": 100
+    },
+    "biography": {
+      "fullName": "Jason Todd",
+      "alterEgos": "Robin II, Joker",
+      "aliases": [
+        "Robin",
+        "Red Robin",
+        "Batman",
+        "Nightwing",
+        "Arkham Knight"
+      ],
+      "placeOfBirth": "-",
+      "firstAppearance": "Batman #635",
+      "publisher": "DC Comics",
+      "alignment": "neutral"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "6'0",
+        "183 cm"
+      ],
+      "weight": [
+        "180 lb",
+        "81 kg"
+      ],
+      "eyeColor": "Blue",
+      "hairColor": "Black"
+    },
+    "work": {
+      "occupation": "Mercenary, Vigilante",
+      "base": "Batcave, Brainzarro's Ship"
+    },
+    "connections": {
+      "groupAffiliation": "formerly Batman Family, Teen Titans",
+      "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
+    },
+    "images": {
+      "xs": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+      "sm": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+      "md": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg",
+      "lg": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
     }
   },
   {
@@ -3297,6 +3462,64 @@
       "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/657-the-comedian.jpg",
       "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/657-the-comedian.jpg",
       "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/657-the-comedian.jpg"
+    }
+  },
+  {
+    "id": 675,
+    "name": "Trigon",
+    "slug": "675-trigon",
+    "powerstats": {
+      "intelligence": 95,
+      "strength": 100,
+      "speed": 85,
+      "durability": 100,
+      "power": 100,
+      "combat": 80
+    },
+    "biography": {
+      "fullName": "",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "Lucifer",
+        "Satan,The Devil",
+        "Lord Trigon",
+        "Master Trigon",
+        "King Trigon",
+        "Conqueror of Worlds",
+        "Ruler of the Five Under Realms"
+      ],
+      "placeOfBirth": "Hell",
+      "firstAppearance": "New Teen Titans #5 (March, 1981)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Demon",
+      "height": [
+        "-",
+        "0 cm"
+      ],
+      "weight": [
+        "- lb",
+        "0 kg"
+      ],
+      "eyeColor": "Yellow",
+      "hairColor": "Black"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    },
+    "connections": {
+      "groupAffiliation": "Church of Blood",
+      "relatives": "Belial (son), Ruskoff (son), Suge (son), Raven (daughter)"
+    },
+    "images": {
+      "xs": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg",
+      "sm": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg",
+      "md": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg",
+      "lg": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg"
     }
   },
   {

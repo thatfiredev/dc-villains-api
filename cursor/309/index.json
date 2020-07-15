@@ -375,6 +375,58 @@
       }
     },
     {
+      "id": 734,
+      "name": "Kite-man",
+      "slug": "734-kite-man",
+      "powerstats": {
+        "intelligence": 80,
+        "strength": 25,
+        "speed": 65,
+        "durability": 45,
+        "power": 60,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "- lb",
+          "0 kg"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Charles 'Chuck' Brown",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Batman #133 (August, 1960)",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg",
+        "sm": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg",
+        "md": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg",
+        "lg": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg"
+      }
+    },
+    {
       "id": 405,
       "name": "Lex Luthor",
       "slug": "405-lex-luthor",
@@ -477,64 +529,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/408-lightning-lord.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/408-lightning-lord.jpg"
       }
-    },
-    {
-      "id": 413,
-      "name": "Lobo",
-      "slug": "413-lobo",
-      "powerstats": {
-        "intelligence": 94,
-        "strength": 100,
-        "speed": 54,
-        "durability": 100,
-        "power": 100,
-        "combat": 85
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": "Czarnian",
-        "height": [
-          "7'6",
-          "229 cm"
-        ],
-        "weight": [
-          "640 lb",
-          "288 kg"
-        ],
-        "eyeColor": "Red",
-        "hairColor": "Black"
-      },
-      "biography": {
-        "fullName": "Lobo",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "The Main Man",
-          "The 'Bo",
-          "Master Frag",
-          "Mister Machete",
-          "Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Omega Men # 3",
-        "publisher": "DC Comics",
-        "alignment": "neutral"
-      },
-      "work": {
-        "occupation": "Assassin, Bounty Hunter, Priest",
-        "base": "Mobile throughout several galaxies"
-      },
-      "connections": {
-        "groupAffiliation": "Formerly LEGION, Young Justice; First Celestial Church of the Triple Fish-God",
-        "relatives": "Slobo (clone)"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/413-lobo.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/413-lobo.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/413-lobo.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/413-lobo.jpg"
-      }
     }
   ],
   "previous_cursor": 214,
-  "next_cursor": 427
+  "next_cursor": 413
 }

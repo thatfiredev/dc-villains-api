@@ -1985,6 +1985,58 @@
     }
   },
   {
+    "id": 734,
+    "name": "Kite-man",
+    "slug": "734-kite-man",
+    "powerstats": {
+      "intelligence": 80,
+      "strength": 25,
+      "speed": 65,
+      "durability": 45,
+      "power": 60,
+      "combat": 85
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": [
+        "- lb",
+        "0 kg"
+      ],
+      "weight": [
+        "- lb",
+        "0 kg"
+      ],
+      "eyeColor": "-",
+      "hairColor": "-"
+    },
+    "biography": {
+      "fullName": "Charles 'Chuck' Brown",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "-"
+      ],
+      "placeOfBirth": "-",
+      "firstAppearance": "Batman #133 (August, 1960)",
+      "publisher": "DC Comics",
+      "alignment": "bad"
+    },
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    },
+    "connections": {
+      "groupAffiliation": "-",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg",
+      "sm": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg",
+      "md": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg",
+      "lg": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kite_Man_comics_Batman.jpg"
+    }
+  },
+  {
     "id": 405,
     "name": "Lex Luthor",
     "slug": "405-lex-luthor",

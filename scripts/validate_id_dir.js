@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const rootDir = '../id/';
+const rootDir = 'id/';
 
 function throwIfDoesntContainField(field, fieldName) {
     if (!field) throw "Missing " + fieldName + " field";

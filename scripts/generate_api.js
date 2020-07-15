@@ -1,9 +1,9 @@
 const fs = require('fs');
 const rimraf = require('rimraf');
 
-const rootDir = '../id/';
-const allDir = '../all/';
-const pagedDir = '../cursor/';
+const rootDir = 'id/';
+const allDir = 'all/';
+const pagedDir = 'cursor/';
 
 let allDirectories = fs.readdirSync(rootDir, { withFileTypes: true })
     .filter(dirpath => dirpath.isDirectory() )

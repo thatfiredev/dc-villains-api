@@ -1,0 +1,53 @@
+{
+  "id": 43,
+  "name": "Ares",
+  "slug": "43-ares",
+  "powerstats": {
+    "intelligence": 90,
+    "strength": 100,
+    "speed": 70,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "God of War",
+      "Mars"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Wonder Woman #1 (October 1941)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "6'1",
+      "208 cm"
+    ],
+    "weight": [
+      "359 lb",
+      "162 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "God of Conflict, God of War",
+    "base": "Hades, formerly Areopagus, Mount Olympus"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Zeus (father), Hera (mother), Eris (sister), Harmonia, Lyta, Hippolyta (daughters), Eros, Phobos, Deimos, Lycus (sons), Children of Ares"
+  },
+  "images": {
+    "xs": "https://www.superherodb.com/pictures2/portraits/10/050/11200.jpg",
+    "sm": "https://www.superherodb.com/pictures2/portraits/10/050/11200.jpg",
+    "md": "https://www.superherodb.com/pictures2/portraits/10/050/11200.jpg",
+    "lg": "https://www.superherodb.com/pictures2/portraits/10/050/11200.jpg"
+  }
+}

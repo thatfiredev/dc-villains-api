@@ -477,58 +477,59 @@
       }
     },
     {
-      "id": 508,
-      "name": "Ozymandias",
-      "slug": "508-ozymandias",
+      "id": 736,
+      "name": "Ocean Master",
+      "slug": "736-ocean-master",
       "powerstats": {
-        "intelligence": 100,
-        "strength": 18,
-        "speed": 33,
-        "durability": 20,
-        "power": 49,
-        "combat": 95
+        "intelligence": 90,
+        "strength": 75,
+        "speed": 70,
+        "durability": 75,
+        "power": 100,
+        "combat": 80
       },
       "appearance": {
         "gender": "Male",
-        "race": "Human",
+        "race": "Atlantean",
         "height": [
-          "-",
-          "0 cm"
+          "5'11 lb",
+          "180 cm"
         ],
         "weight": [
-          "- lb",
-          "0 kg"
+          "200 lb",
+          "90 kg"
         ],
-        "eyeColor": "Blue",
-        "hairColor": "Blond"
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
       },
       "biography": {
-        "fullName": "Adrian Veidt",
+        "fullName": "Orm Curry Marius",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "The World's Smartest Man"
+          "Prince Orm",
+          "King Orm"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Watchmen #1",
+        "placeOfBirth": "Atlantis",
+        "firstAppearance": "Aquaman #29 (September, 1966)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Terrorist, King",
+        "base": "Atlantis, Holly Beach, Louisiana"
       },
       "connections": {
-        "groupAffiliation": "Formerly The Crimebusters",
-        "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
+        "groupAffiliation": "-",
+        "relatives": "Orin (half-brother)"
       },
       "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/508-ozymandias.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/508-ozymandias.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/508-ozymandias.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/508-ozymandias.jpg"
+        "xs": "https://www.superherodb.com/pictures2/portraits/10/050/11175.jpg",
+        "sm": "https://www.superherodb.com/pictures2/portraits/10/050/11175.jpg",
+        "md": "https://www.superherodb.com/pictures2/portraits/10/050/11175.jpg",
+        "lg": "https://www.superherodb.com/pictures2/portraits/10/050/11175.jpg"
       }
     }
   ],
   "previous_cursor": 295,
-  "next_cursor": 509
+  "next_cursor": 508
 }

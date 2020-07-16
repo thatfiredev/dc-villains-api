@@ -1,6 +1,58 @@
 {
   "characters": [
     {
+      "id": 508,
+      "name": "Ozymandias",
+      "slug": "508-ozymandias",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 18,
+        "speed": 33,
+        "durability": 20,
+        "power": 49,
+        "combat": 95
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Adrian Veidt",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The World's Smartest Man"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Watchmen #1",
+        "publisher": "DC Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly The Crimebusters",
+        "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
+      },
+      "images": {
+        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/508-ozymandias.jpg",
+        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/508-ozymandias.jpg",
+        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/508-ozymandias.jpg",
+        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/508-ozymandias.jpg"
+      }
+    },
+    {
       "id": 509,
       "name": "Parademon",
       "slug": "509-parademon",
@@ -475,61 +527,8 @@
         "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/557-rick-flag.jpg",
         "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/557-rick-flag.jpg"
       }
-    },
-    {
-      "id": 558,
-      "name": "Riddler",
-      "slug": "558-riddler",
-      "powerstats": {
-        "intelligence": 100,
-        "strength": 10,
-        "speed": 12,
-        "durability": 14,
-        "power": 10,
-        "combat": 14
-      },
-      "appearance": {
-        "gender": "Male",
-        "race": null,
-        "height": [
-          "-",
-          "0 cm"
-        ],
-        "weight": [
-          "- lb",
-          "0 kg"
-        ],
-        "eyeColor": "-",
-        "hairColor": "-"
-      },
-      "biography": {
-        "fullName": "Edward Nigma",
-        "alterEgos": "No alter egos found.",
-        "aliases": [
-          "E. Nigma",
-          "Edward E. Nigma"
-        ],
-        "placeOfBirth": "-",
-        "firstAppearance": "Detective Comics #140 (1948)",
-        "publisher": "DC Comics",
-        "alignment": "bad"
-      },
-      "work": {
-        "occupation": "-",
-        "base": "-"
-      },
-      "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
-      },
-      "images": {
-        "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/558-riddler.jpg",
-        "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/558-riddler.jpg",
-        "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/558-riddler.jpg",
-        "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/558-riddler.jpg"
-      }
     }
   ],
   "previous_cursor": 408,
-  "next_cursor": 565
+  "next_cursor": 558
 }
